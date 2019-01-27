@@ -17,7 +17,7 @@ class HomeScreen extends React.Component {
     // Insertamos las diferentes opciones de la navegacion
     static navigationOptions = {
         title: 'Home Screen',
-        };
+    };
     render() {
         return (
         <View style={styles.container}>
